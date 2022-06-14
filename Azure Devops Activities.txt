@@ -1,0 +1,11 @@
+Azure DevOps activities
+
+**** In Azure DevOps, i used to handle the end to end Activities like 
+
+---> Creating Repo's and manage Repo Backup, Branching Policies.
+---> Manage the previleges like contributor reader,admin,Project admin.
+---> Taking care of Branching Strategies.
+---> Setup Pipelines.
+---> Configure Agents.
+---> Make Service Connections.
+---> Create Feeds and incorporated in the Pipeline.

@@ -1,0 +1,111 @@
+
+This is Ashwini Nisha,
+i have 3-years of experience in devops domain, i started my career with Vunique Solutions Private Limited.
+
+ 
+i have experienced on few tools, you know like
+
+       -->operating system i have experienced on windows and linux
+
+       -->Coming to version control tools i have worked on   git, github,Azure DevOps
+
+       -->Build tool' it's maven
+       
+       -->continuous integration tool, it's jenkins
+       
+       -->configuration management tool i worked on ansible
+       
+       -->static code analysis tool sonarqube
+       
+       -->containerization tool i have experienced on docker
+       
+       -->monitoring tool  i have experienced on Cloud watch,Nagios,Grafana
+       
+       --> web application deployment server Apache Tomcat
+
+      --> ticketing and bug tracking tool  JIRA
+       
+      --> scripting  i have experienced on shell and pipeline script
+       
+      -->then coming to cloud  i have experienced on aws` few services like EC2, SES, SNS, ECS, ECR, EBS, IAM, VPC, AUTO SCALING,
+   
+    
+if you allow me i can explain my  Day-to-Day activities i did on my organisation
+
+
+
+
+Coming to my day to dy activities
+
+                -->monitor the daily automated builds.
+
+                -->if any failures,i need to communicate with the respective module owner to  take the
+                  work arround to proceed for devolopments and upgrades for staging, uat, qa and sqa setups.
+                     
+                -->then parallely raise ticket from JIRA and track those pr's in excel sheet for reference.
+               
+                -->if any ugrade issues will be raised, and also follow the samething
+
+                -->and daily we have a DSM, in that we are discussing the activities about build upgrade issues,
+                  if we faced for that day...
+
+               --> then taken care of git branching stratagies and authentication,if any new repo creations,
+                   everything will be taken care of post syncup call.
+             
+                 if any issues like merge,pull request,branch policies,i can assist to the developers.
+
+
+
+			-->then take caren of docker files,images and then container registries
+
+              -->if any changes happened, then modify the docker files for the respective application, then push those            
+                changes and initiate mock build for that .
+
+            
+             -->and then writing shell script for build & deployment automatically & cleanup scripts
+
+             --> and then cleanup scripts like older than 9 or 10 days images will be deleted automatically from on-premices, load          
+              server and container registry
+
+             --> then create jenkins profiles like free-style and pipeline jobs, for new requirements and initiate mock build ,before integrated for officially.          
+
+            -->then takecare of jenkins backup and intigrate tools in jenkins and setup the masterslave.
+
+            --> and create pipeline for latest release from Azure devops and maintain accordingly.
+
+            -->and taken care of DR setup, for latest release and source code backups.
+
+
+
+           -->and cloud,i was provisioning the resources and taken care of snapshots .
+
+           --> then create cloud watch metrics and setup notification accordingly.
+
+           -->and create EBS and attach the instances .
+
+           -->If any setup related issues i have to support.
+            
+         -->at the end of the day we will sync back in DRS  meeting and we can share the tasks each other ,
+            the team has to do all the ativities ,because if some one on leave..?
+            we need to take care because, we are working with agile approach.
+
+
+
+and that's it from my side.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
